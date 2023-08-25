@@ -1,0 +1,44 @@
+body
+{
+font-family: 'Ubuntu', sans-serif;
+background:pink;
+}
+
+.header_div
+{
+    background:rgb(236, 59, 127);
+    color:rgb(129, 6, 129);
+}
+
+.header_div p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(8, 92, 170);
+    letter-spacing:2px;
+    font-size:13px;
+    font-weight:bold;
+}
+
+main_div button 
+{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-top:30px;
+width:130px;
+font-weight:bolder;
+letter-spacing:3px;
+
+}
+
+copy_right_footer
+{
+position:fixed;
+color:rgb(12, 129, 207);
+bottom:0;
+width:100%;
+font-size:80px;
+line-height:3;
+text-align:center;
+text-shadow: 5px 5px 5px rgb(241, 94, 118);
+
+
+}
